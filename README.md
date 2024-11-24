@@ -20,7 +20,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/admission-predictor.git
+git clone https://github.com/RoosterMonkey777/StudentAdmissionMLWebApp.git
 cd admission-predictor
 2. Backend Setup
 Build and push the Docker image to AWS ECR:
