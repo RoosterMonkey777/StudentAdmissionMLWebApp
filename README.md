@@ -41,3 +41,11 @@ Ensure EC2 instance has access to your S3 bucket.
 Usage
 Access the App: Visit the Elastic IP in your browser (e.g., http://<elastic-ip>).
 Make Predictions: Fill out the form and submit to get an admission status (Accepted/Rejected).
+
+
+![image](https://github.com/user-attachments/assets/c8088c07-ed18-4e67-ac2f-0c837d18f8ce)
+![image](https://github.com/user-attachments/assets/848bd0e4-abfd-4e83-8e1a-0062dd70d50d)
+![image](https://github.com/user-attachments/assets/e6c10ba9-7bea-4653-adc3-02c9837bd6dd)
+
+
+
